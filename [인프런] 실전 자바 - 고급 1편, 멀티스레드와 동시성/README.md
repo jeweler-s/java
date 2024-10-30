@@ -66,7 +66,7 @@
       </ul>
     </td>
     <td>2024.10.31</td>
-    <td><a href=""></a></td>
+    <td><a href="https://velog.io/@be_have98/Java-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B0%80%EC%8B%9C%EC%84%B1%EA%B3%BC-volatile">[Java] 메모리 가시성과 volatile</a></td>
     <td><a href=""></a></td>
   </tr>
 </table>
