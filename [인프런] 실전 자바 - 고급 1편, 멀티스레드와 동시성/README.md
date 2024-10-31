@@ -67,6 +67,6 @@
     </td>
     <td>2024.10.31</td>
     <td><a href="https://velog.io/@be_have98/Java-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B0%80%EC%8B%9C%EC%84%B1%EA%B3%BC-volatile">[Java] 메모리 가시성과 volatile</a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://velog.io/@ychxexn/%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C-1%EB%8B%A8%EA%B3%84-%EB%8F%99%EA%B8%B0%ED%99%94">멀티스레드 1단계 : 동기화</a></td>
   </tr>
 </table>
