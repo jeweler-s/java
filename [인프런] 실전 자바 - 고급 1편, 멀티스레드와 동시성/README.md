@@ -73,7 +73,7 @@
     <td align="center">4</td>
     <td>8. 고급 동기화 - concurrent.Lock</td>
     <td>2024.11.06</td>
-    <td></td>
+    <td><a href="https://velog.io/@be_have98/Java-ReenterentLock">[Java] Lock 인터페이스와 ReentrantLock</a></td>
     <td><a href="https://velog.io/@ychxexn/%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C-2%EB%8B%A8%EA%B3%84-%EA%B3%A0%EA%B8%89-%EB%8F%99%EA%B8%B0%ED%99%94">멀티스레드 2단계 : 고급 동기화</a></td>
   </tr>
 </table>
