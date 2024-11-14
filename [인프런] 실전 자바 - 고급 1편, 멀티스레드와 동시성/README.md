@@ -80,7 +80,7 @@
     <td align="center">5</td>
     <td>9. 생산자 소비자 문제1</td>
     <td>2024.11.14</td>
-    <td><a href="#"></a></td>
+    <td><a href="https://velog.io/@be_have98/Java-%EC%83%9D%EC%82%B0%EC%9E%90-%EC%86%8C%EB%B9%84%EC%9E%90-%EB%AC%B8%EC%A0%9C%EC%99%80-Object-%ED%81%B4%EB%9E%98%EC%8A%A4">[Java] 생산자-소비자 문제와 Object 클래스</a></td>
     <td><a href="https://velog.io/@ychxexn/생산자-소비자-문제-다루기-wait-notify">생산자 소비자 문제 - wait, notify</a></td>
   </tr>
 </table>
