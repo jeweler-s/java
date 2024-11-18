@@ -85,7 +85,7 @@
   </tr>
   <tr>
     <td align="center">6</td>
-    <td>9. 생산자 소비자 문제2</td>
+    <td>10. 생산자 소비자 문제2</td>
     <td>2024.11.21</td>
     <td><a href=""></a></td>
     <td><a href=""></a></td>
