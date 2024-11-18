@@ -84,7 +84,7 @@
     <td><a href="https://velog.io/@ychxexn/생산자-소비자-문제-다루기-wait-notify">생산자 소비자 문제 - wait, notify</a></td>
   </tr>
   <tr>
-    <td align="center">5</td>
+    <td align="center">6</td>
     <td>9. 생산자 소비자 문제2</td>
     <td>2024.11.21</td>
     <td><a href=""></a></td>
