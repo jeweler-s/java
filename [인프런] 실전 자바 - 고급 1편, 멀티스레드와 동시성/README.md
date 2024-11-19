@@ -88,6 +88,6 @@
     <td>10. 생산자 소비자 문제2</td>
     <td>2024.11.21</td>
     <td><a href=""></a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://velog.io/@ychxexn/%EC%83%9D%EC%82%B0%EC%9E%90-%EC%86%8C%EB%B9%84%EC%9E%90-%EB%AC%B8%EC%A0%9C-BlockingQueue-c0bgepbc">생산자 소비자 문제 - BlockingQueue</a></td>
   </tr>
 </table>
