@@ -95,6 +95,6 @@
     <td>11. CAS - 동기화와 원자적 연산</td>
     <td>2024.11.27</td>
     <td><a href="https://velog.io/@be_have98/Java-AtomicInteger%EC%99%80-CAS-%EC%97%B0%EC%82%B0">[Java] AtomicInteger와 CAS 연산</a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://velog.io/@ychxexn/CAS">CAS</a></td>
   </tr>
 </table>
