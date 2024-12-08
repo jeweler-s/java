@@ -102,6 +102,6 @@
     <td>12. 동시성 컬렉션</td>
     <td>2024.12.04</td>
     <td><a href="https://velog.io/@be_have98/Java-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%BB%AC%EB%A0%89%EC%85%98">[Java] 동시성 컬렉션</a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://velog.io/@ychxexn/%EB%B3%91%EB%A0%AC-%EC%B2%98%EB%A6%AC">병렬 처리</a></td>
   </tr>
 </table>
