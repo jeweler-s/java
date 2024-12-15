@@ -109,7 +109,7 @@
     <td>13. 스레드 풀과 Executor 프레임워크1</td>
     <td>2024.12.15</td>
     <td><a href="https://velog.io/@be_have98/Java-ThreadPool%EA%B3%BC-Executor-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC1">[Java] ThreadPool과 Executor 프레임워크(1)</a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://velog.io/@ychxexn/Future%EB%8A%94-%EC%99%9C-%EC%93%B0%EB%8A%94-%EA%B1%B8%EA%B9%8C">Future는 왜 쓰는 걸까?</a></td>
   </tr>
   <tr>
     <td align="center">10</td>
